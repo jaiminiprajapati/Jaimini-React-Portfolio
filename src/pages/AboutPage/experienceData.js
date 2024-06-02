@@ -1,4 +1,11 @@
 const experienceData = [
+  {
+    isleft: true,
+    timeline: "April,2023 - July,2023",
+    timeline_title: "Web Developer Intern",
+    location: "Byte Computers, India",
+    details: ""
+  },
     {
       isleft: true,
       timeline: "2022 - 2023",
@@ -11,13 +18,6 @@ const experienceData = [
       timeline: "2019 - 2022",
       timeline_title: "Computer Science Teacher",
       location: "Vibrant International Academy, India",
-      details: ""
-    },
-    {
-      isleft: true,
-      timeline: "2018 - 2019",
-      timeline_title: "Junior Web Developer Intern",
-      location: "Iced Infotech, India",
       details: ""
     }
   ];
